@@ -98,7 +98,7 @@ cpufreq-check
 >
 > - git clone https://github.com/ddan9/cpufreq-check into $HOME
 >
-> - cp iwcheck/cpufreq-check /usr/bin/cpufreq-check (Or into another similar directory)
+> - cp cpufreq-check/cpufreq-check /usr/bin/cpufreq-check (Or into another similar directory)
 >
 > - chmod +x /usr/bin/cpufreq-check
 >
@@ -196,7 +196,7 @@ cpufreq-check
 >
 > - git clone https://github.com/ddan9/cpufreq-check в вашу $HOME
 >
-> - cp iwcheck/cpufreq-check /usr/bin/cpufreq-check (Либо в другую подобную директорию)
+> - cp cpufreq-check/cpufreq-check /usr/bin/cpufreq-check (Либо в другую подобную директорию)
 >
 > - chmod +x /usr/bin/cpufreq-check
 >
