@@ -41,7 +41,7 @@
 
 #### cpufreq-check (en)
 
-cpufreq-check
+This is just looped cpufreq-info program from cpufrequtils package which I did just for convenience. Designed to receive updated information about the state of the CPU and its cores
 
 [🔙 Menu](#Menu)
 
@@ -140,7 +140,7 @@ Creator of script: https://ddan9.github.io 👈
 
 #### cpufreq-check (ru)
  
-cpufreq-check
+Это просто зацикленная программа cpufreq-info из пакета cpufrequtils, которую я сделал просто для удобства. Предназначена для получения обновляемой информации о состоянии ЦПУ и его ядер
 
 [🔙 Меню](#Меню)
 
