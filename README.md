@@ -41,7 +41,7 @@
 
 #### cpufreq-check (en)
 
-This is just looped cpufreq-info program from cpufrequtils package which I did just for convenience. Designed to receive updated information about the state of the CPU and its cores
+This is just looped cpufreq-info program from cpufrequtils package which I did just for convenience. Designed to receive updated information about the state of the CPU and it's cores
 
 [🔙 Menu](#Menu)
 
