@@ -16,7 +16,7 @@ if [[ $(which sudo | grep -c sudo) = "1" ]]
 
 	then
 
-		sudo apt install -y sudo
+		sudo apt-get install -y sudo
 
 		sudo apt-get update
 
@@ -24,7 +24,7 @@ if [[ $(which sudo | grep -c sudo) = "1" ]]
 
 		sudo apt-get install -y cpufrequtils
 
-		sudo apt dist-upgrade -y
+		sudo apt-get dist-upgrade -y
 
 		sudo cp $HOME/cpufreq-check/cpufreq-check /usr/sbin/cpufreq-check
 
@@ -40,7 +40,7 @@ if [[ $(which sudo | grep -c sudo) = "1" ]]
 
 		apt-get install -y cpufrequtils
 
-		apt dist-upgrade -y
+		apt-get dist-upgrade -y
 
 		cp $HOME/cpufreq-check/cpufreq-check $HOME/../usr/bin/cpufreq-check
 
